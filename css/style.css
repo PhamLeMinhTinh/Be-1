@@ -451,6 +451,8 @@ textarea.input {
 
 .header-logo {
   float: left;
+  margin-top: 20px !important;
+  margin-left: 29px !important;
 }
 
 .header-logo .logo img {
